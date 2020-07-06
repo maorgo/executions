@@ -1,6 +1,7 @@
+package dal
+
 import com.mysql.cj.jdbc.MysqlDataSource
 import java.sql.Connection
-import java.sql.SQLException
 
 class MySQLConnection {
     companion object {
